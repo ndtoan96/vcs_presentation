@@ -64,3 +64,9 @@ layout: two-cols-header
 **Collaborate**:
 - `git pull`: Download changes from remote repository
 - `git push`: Push changes to remote repository
+
+---
+layout: statement
+---
+
+# Demo
