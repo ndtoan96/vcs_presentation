@@ -42,3 +42,7 @@ src: ./pages/git.md
 src: ./pages/github.md
 ---
 
+---
+src: ./pages/python.md
+---
+
